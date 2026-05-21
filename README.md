@@ -11,3 +11,5 @@ Shield was engineered by an independent Arizona developer to provide ironclad, o
 
 ## Accessibility & Trauma-Informed Engineering Note
 As an independent developer navigating epilepsy, I intentionally designed Shield's user interface to completely avoid rapid flashing animations, erratic transitions, or high-contrast strobe visual cues. The result is a highly stable, calming, and reliable environment built specifically to perform cleanly when users are operating under extreme stress.
+
+https://youtube.com/shorts/fZACBjG4U_M?feature=share
